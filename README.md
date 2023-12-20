@@ -13,6 +13,7 @@ This project holds algorithms and data structures practice solutions to various 
 
 To add any new code:
 
-- one must create a new branch in which new code is added, this can help add new challenges, notebooks or solutions
+- One must create a new branch in which new code is added, this can help add new challenges, notebooks or solutions
 - A pull request must be created to merge the new branch to the trunk
 - The pull request must have at least 1 reviewer who is not the developer who created the branch
+- In the solution code, try to use as little python [magic ✨](https://en.wikipedia.org/wiki/Magic_(programming)) as possible. Stay primitive
